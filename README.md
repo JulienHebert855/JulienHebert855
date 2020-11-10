@@ -9,4 +9,4 @@ My name is Julien Hebert, I'm a Junior Web Developper from Quebec, Canada and I 
 ![image](https://user-images.githubusercontent.com/73999978/98606899-106e7a00-22b6-11eb-899d-36ba95435e6f.png)
 
 
-[![Julien's github stats](https://github-readme-stats.vercel.app/api?username=JulienHebert855)](https://github.com/JulienHebert855/github-readme-stats)
+![Julien'S github stats](https://github-readme-stats.vercel.app/api?username=JulienHebert855&show_icons=true&theme=merko)
